@@ -2,9 +2,3 @@
 def display_board
   puts "A Tic Tac Toe Board"
 end 
-
-def display_board
- puts "A Tic Tac Toe Board"
-end
-:display_board
-0 > display_board
